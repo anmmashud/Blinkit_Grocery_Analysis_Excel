@@ -6,7 +6,7 @@
 
 ## Business Requirement
 
-To conduct a comprehensive analysis of `Blinkit's` `sales performance`, `customer satisfaction`, and `inventory distribution` to identify key insights and `opportunities for optimization` using various `KPIs` and `visualizations` in `Excel`.
+To conduct a comprehensive analysis of **Blinkit's** `sales performance`, `customer satisfaction`, and `inventory distribution` to identify key insights and opportunities for optimization using various `KPIs` and visualizations in `Excel`.
 
 ### KPI Requirements
 
@@ -28,12 +28,12 @@ To conduct a comprehensive analysis of `Blinkit's` `sales performance`, `custome
    - **Chart Type**: `Bar Chart`  
 
 3. **Fat Content by Outlet for Total Sales**:  
-   - **Objective**: Compare `total sales` across different `outlets` segmented by `fat content`.  
+   - **Objective**: Compare `total sales` across different outlets segmented by fat content.  
    - **Additional KPI Metrics**: Assess how other `KPIs` (`Average Sales`, `Number of Items`, `Average Ratings`) vary with `fat content`.  
    - **Chart Type**: `Stacked Column Chart`  
 
 4. **Total Sales by Outlet Establishment**:  
-   - **Objective**: Evaluate how the `age` or `type` of `outlet establishment` influences `sales`.  
+   - **Objective**: Evaluate how the `age` or `type` of outlet establishment influences `sales`.  
    - **Chart Type**: `Line Chart`  
 
 5. **Sales by Outlet Size**:  
@@ -45,5 +45,5 @@ To conduct a comprehensive analysis of `Blinkit's` `sales performance`, `custome
    - **Chart Type**: `Funnel Map`  
 
 7. **All Metrics by Outlet Type**:  
-   - **Objective**: Provide a comprehensive view of all key `metrics` (`Total Sales`, `Average Sales`, `Number of Items`, `Average Rating`) broken down by different `outlet types`.  
-   - **Chart Type**: `Matrix Card`  
+   - **Objective**: Provide a comprehensive view of all key metrics (`Total Sales`, `Average Sales`, `Number of Items`, `Average Rating`) broken down by different outlet types.  
+   - **Chart Type**: `Matrix Card` 
