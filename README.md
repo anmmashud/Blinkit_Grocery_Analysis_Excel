@@ -4,6 +4,8 @@
 [![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-blue)](https://drive.google.com/drive/folders/1Mlc_fvIrK793HedcpwbEpv13LdAs4yBg)  
 [![Tutor's Website](https://img.shields.io/badge/Tutor's%20Website-Topmate.io-green)](https://topmate.io/data_tutorials)  
 
+[Thumbnail](/assets/blinkit_thumbnail.jpg)
+
 ## Business Requirement
 
 To conduct a comprehensive analysis of **Blinkit's** `sales performance`, `customer satisfaction`, and `inventory distribution` to identify key insights and opportunities for optimization using various `KPIs` and visualizations in `Excel`.
