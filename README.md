@@ -1,13 +1,14 @@
 # Blinkit Analysis
 
+[![Watch Video](https://img.shields.io/badge/Project%20Video-YouTube-red)](https://www.youtube.com/watch?v=klZj_282ApY&t=29s)  
+[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-blue)](https://drive.google.com/drive/folders/1Mlc_fvIrK793HedcpwbEpv13LdAs4yBg)  
+[![Tutor's Website](https://img.shields.io/badge/Tutor's%20Website-Topmate.io-green)](https://topmate.io/data_tutorials)  
+
+
 <div align="center">
   <h3>Preview</h3>
   <img src="assets/blinkit_thumbnail.jpg" alt="Old Data" width="600">
 </div>
-
-[![Watch Video](https://img.shields.io/badge/Project%20Video-YouTube-red)](https://www.youtube.com/watch?v=klZj_282ApY&t=29s)  
-[![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-blue)](https://drive.google.com/drive/folders/1Mlc_fvIrK793HedcpwbEpv13LdAs4yBg)  
-[![Tutor's Website](https://img.shields.io/badge/Tutor's%20Website-Topmate.io-green)](https://topmate.io/data_tutorials)  
 
 ## Business Requirement
 
