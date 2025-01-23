@@ -9,8 +9,6 @@
   <img src="assets/blinkit_thumbnail.jpg" alt="Old Data" width="600">
 </div>
 
-!(assets/blinkit_thumbnail.jpg)
-
 ## Business Requirement
 
 To conduct a comprehensive analysis of **Blinkit's** `sales performance`, `customer satisfaction`, and `inventory distribution` to identify key insights and opportunities for optimization using various `KPIs` and visualizations in `Excel`.
