@@ -4,7 +4,12 @@
 [![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-blue)](https://drive.google.com/drive/folders/1Mlc_fvIrK793HedcpwbEpv13LdAs4yBg)  
 [![Tutor's Website](https://img.shields.io/badge/Tutor's%20Website-Topmate.io-green)](https://topmate.io/data_tutorials)  
 
-!(/assets/blinkit_thumbnail.jpg)
+<div align="center">
+  <h3>Preview</h3>
+  <img src="assets/blinkit_thumbnail.jpg" alt="Old Data" width="600">
+</div>
+
+!(assets/blinkit_thumbnail.jpg)
 
 ## Business Requirement
 
